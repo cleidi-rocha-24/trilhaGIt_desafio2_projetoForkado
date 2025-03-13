@@ -4,3 +4,5 @@
 **cd** - navegação (de entrada) entre os diretórios
 **dir** - listar conteúdo do diretórios
 
+ajuste de documentaçao
+
